@@ -1,3 +1,5 @@
+<a name="oben"></a>
+
 # Giesela Pflanzenbewässerung
 
 Hey, ich bin Giesela, ein automatisches Bewässerungssystem für drei unterschiedliche Pflanzentypen. Drei Sensoren erfassen die Feuchte der Pflanzenerde in den Blumentöpfen und steuern die Wasserzufuhr für die Pflanzenbewässerung. Sollte im Wassertank zu wenig Wasser sein, erkennt das der "Trockenschutzsensor" und die Füllstands-LED leuchtet. Gleichzeitig schalten die drei Pumpen aus, bis ausreichend Gießwasser nachgefüllt wurde.
@@ -133,5 +135,11 @@ Giesela im WLAN-Netzwerk auswählen
 
 
 Die WLAN-Zugangsdaten im WLAN-Manager eingeben und speichern.
+
+---
+
+<div style="position:absolute; left:2cm; ">   
+<ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
+</div>  
 
 ---
