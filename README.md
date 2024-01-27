@@ -8,19 +8,19 @@ An einem WEB-Server werden die drei Feuchtewerte der Pflanzentöpfe mit Analogan
 Für die Inbetriebnahme steht ein WLAN-Manager zur Eingabe der WLAN-Zugangsdaten zur Verfügung. Nach dem ersten anlegen der Versorgungsspannung wird bei den WLAN-Netzwerkeinstellungen des Handys oder Tablets das Netzwerk "Giesela" ausgewählt und in der Adressleiste des Browsers die IP-Adresse 192.168.4.1 eingegeben. Mit dieser IP-Adresse startet er WLAN-Manager für die Eingabe und dem Speichern der WLAN-Zugangsdaten. Nach der Eingabe und dem Speichern der SSID und des WLAN-Passwortes startet der Micro Controller neu und baut die WLAN-Verbindung auf. Jetzt ist das Bewässerungssystem und der WEB-Server aktiv.
 
 
-![Blumentopf](https://github.com/frankyhub/Giesela/blob/main/pic/gieselablumentopf.png)
+![Blumentopf](/pic/gieselablumentopf.png)
 
 Giesela Pflanzenbewässerung
 
 
-![Giesela WEB-Server](https://github.com/frankyhub/Giesela/blob/main/pic/GieselaWEBSERVER.png)
+![Giesela WEB-Server](/pic/GieselaWEBSERVER.png)
 
 Giesela WEB-Server
 
 
 
 
-![Giesela Technologie-Schema](https://github.com/frankyhub/Giesela/blob/main/pic/gieselatechnologie.png)
+![Giesela Technologie-Schema](/pic/gieselatechnologie.png)
 
 Giesela Technologie-Schema
 
@@ -60,7 +60,7 @@ Schritt 1: Das Gehäuse
 + Montiere die Gehäuseteile zusammen (noch nicht verkleben)
 
 
-![Gieselagehause](https://github.com/frankyhub/Giesela/blob/main/pic/gieselagehause.png)
+![Gieselagehause](/pic/gieselagehause.png)
 
 Giesela Gehäuse.png
 
@@ -72,11 +72,11 @@ Schritt 2: 3D-Druck mit Tinkercad
 + Zeichne und drucke 3 Schlauchhalter
 
 
-![Spacer5mm](https://github.com/frankyhub/Giesela/blob/main/pic/spacer5mm.png)
+![Spacer5mm](/pic/spacer5mm.png)
 
 5mm Spacer
 
-![Gieselaschlachhalter](https://github.com/frankyhub/Giesela/blob/main/pic/gieselaschlauchhalter.png)
+![Gieselaschlachhalter](/pic/gieselaschlauchhalter.png)
 
 Schlauchhalter
 
@@ -87,28 +87,28 @@ Schritt 3: Verdrahtung und Lötarbeiten
 + Biege an einem Ende der Widerstände und am +Pol der LEDs eine Öse
 
 
-![LED](https://github.com/frankyhub/Giesela/blob/main/pic/r-led.jpg)
+![LED](/pic/r-led.jpg)
 
 LED Öse
 
 Führe Anschlussdrähte für die Widerstände und der LEDs durch die Öse und Löte sie an
 
 
-![LED-Draht](https://github.com/frankyhub/Giesela/blob/main/pic/r-led-draht.jpg)
+![LED-Draht](/pic/r-led-draht.jpg)
 
 LED Lötstelle
 
 
-![Oese](https://github.com/frankyhub/Giesela/blob/main/pic/oese.jpg)
+![Oese](/pic/oese.jpg)
 
 Platine
 
 Verdrahte das Shield, die LEDs, die Sensoren, die Pumpen, den Buzzer und die Relais nach den Verdrahtungsplan
 
 
-![ESP32](https://github.com/frankyhub/Giesela/blob/main/pic/GieselaESP32.png)
+![ESP32](/pic/GieselaESP32.png)
 
-![Ggieselapumpen](https://github.com/frankyhub/Giesela/blob/main/pic/gieselapumpen.png)
+![Ggieselapumpen](/pic/gieselapumpen.png)
 
 ---
 
@@ -126,12 +126,12 @@ Schritt 4: Inbetriebnahme
 + Beobachte die Gießfunktion und achte darauf, dass kein Wasser unkontrolliert austritt
 
 
-![Gieselanetzwerk](https://github.com/frankyhub/Giesela/blob/main/pic/gieselanetzwerk.png)
+![Gieselanetzwerk](/pic/gieselanetzwerk.png)
 
 Giesela im WLAN-Netzwerk auswählen
 
 
-![Gieselawlanmanager](https://github.com/frankyhub/Giesela/blob/main/pic/gieselaWLANmanager.jpg)
+![Gieselawlanmanager](/pic/gieselaWLANmanager.jpg)
 
 
 Die WLAN-Zugangsdaten im WLAN-Manager eingeben und speichern.
