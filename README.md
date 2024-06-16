@@ -2,6 +2,10 @@
 
 # Giesela Pflanzenbewässerung
 
+Automatisches Bewässerungssystem
+
+## Story
+
 Hey, ich bin Giesela, ein automatisches Bewässerungssystem für drei unterschiedliche Pflanzentypen. Drei Sensoren erfassen die Feuchte der Pflanzenerde in den Blumentöpfen und steuern die Wasserzufuhr für die Pflanzenbewässerung. Sollte im Wassertank zu wenig Wasser sein, erkennt das der "Trockenschutzsensor" und die Füllstands-LED leuchtet. Gleichzeitig schalten die drei Pumpen aus, bis ausreichend Gießwasser nachgefüllt wurde.
 Entsteht aus irgendeinem Grund zu viel Nässe in den Blumentöpfen, schalten zur Sicherheit die drei Pumpen ebenfalls ab, die Überlauf-LED leuchtet und der Buzzer ertönt.
 An einem WEB-Server werden die drei Feuchtewerte der Pflanzentöpfe mit Analoganzeigen dargestellt.
