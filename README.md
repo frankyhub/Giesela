@@ -5,11 +5,10 @@
 |[:skull:ISSUE](https://github.com/frankyhub/Giesela/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Giesela/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Giesela/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2047-blue)|<a href="https://github.com/frankyhub/Giesela/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Giesela)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Giesela)|<a href="https://github.com/frankyhub/Giesela/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Giesela)|<a href="https://github.com/frankyhub/Giesela/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Giesela)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Giesela)| <a href="https://github.com/frankyhub/Giesela/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Giesela/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/Giesela/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Giesela)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Giesela)|<a href="https://github.com/frankyhub/Giesela/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Giesela)|<a href="https://github.com/frankyhub/Giesela/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Giesela)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2047-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Giesela)| <a href="https://github.com/frankyhub/Giesela/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Giesela/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
 </div>
-
-
 
 # Giesela Pflanzenbewässerung
 
@@ -23,19 +22,20 @@ An einem WEB-Server werden die drei Feuchtewerte der Pflanzentöpfe mit Analogan
 Für die Inbetriebnahme steht ein WLAN-Manager zur Eingabe der WLAN-Zugangsdaten zur Verfügung. Nach dem ersten anlegen der Versorgungsspannung wird bei den WLAN-Netzwerkeinstellungen des Handys oder Tablets das Netzwerk "Giesela" ausgewählt und in der Adressleiste des Browsers die IP-Adresse 192.168.4.1 eingegeben. Mit dieser IP-Adresse startet er WLAN-Manager für die Eingabe und dem Speichern der WLAN-Zugangsdaten. Nach der Eingabe und dem Speichern der SSID und des WLAN-Passwortes startet der Micro Controller neu und baut die WLAN-Verbindung auf. Jetzt ist das Bewässerungssystem und der WEB-Server aktiv.
 
 
-![Blumentopf](/pic/gieselablumentopf.png)
+<img src="pic/gieselablumentopf.png" width="500"> 
+<br> <br>
 
 Giesela Pflanzenbewässerung
 
 
-![Giesela WEB-Server](/pic/GieselaWEBSERVER.png)
+<img src="pic/GieselaWEBSERVER.png" width="500"> 
+<br> <br>
 
 Giesela WEB-Server
 
 
-
-
-![Giesela Technologie-Schema](/pic/gieselatechnologie.png)
+<img src="pic/gieselatechnologie.png" width="500"> 
+<br> <br>
 
 Giesela Technologie-Schema
 
@@ -75,7 +75,8 @@ Schritt 1: Das Gehäuse
 + Montiere die Gehäuseteile zusammen (noch nicht verkleben)
 
 
-![Gieselagehause](/pic/gieselagehause.png)
+<img src="pic/gieselagehause.png" width="500"> 
+<br> <br>
 
 Giesela Gehäuse.png
 
@@ -87,11 +88,13 @@ Schritt 2: 3D-Druck mit Tinkercad
 + Zeichne und drucke 3 Schlauchhalter
 
 
-![Spacer5mm](/pic/spacer5mm.png)
+<img src="pic/spacer5mm.png" width="500"> 
+<br> <br>
 
 5mm Spacer
 
-![Gieselaschlachhalter](/pic/gieselaschlauchhalter.png)
+<img src="pic/gieselaschlauchhalter.png" width="500"> 
+<br> <br>
 
 Schlauchhalter
 
@@ -102,28 +105,32 @@ Schritt 3: Verdrahtung und Lötarbeiten
 + Biege an einem Ende der Widerstände und am +Pol der LEDs eine Öse
 
 
-![LED](/pic/r-led.jpg)
+<img src="pic/r-led.jpg" width="500"> 
+<br> <br>
+
 
 LED Öse
 
 Führe Anschlussdrähte für die Widerstände und der LEDs durch die Öse und Löte sie an
 
-
-![LED-Draht](/pic/r-led-draht.jpg)
+<img src="pic/r-led-draht.jpg" width="500"> 
+<br> <br>
 
 LED Lötstelle
 
-
-![Oese](/pic/oese.jpg)
+<img src="pic/oese.jpg" width="500"> 
+<br> <br>
 
 Platine
 
 Verdrahte das Shield, die LEDs, die Sensoren, die Pumpen, den Buzzer und die Relais nach den Verdrahtungsplan
 
 
-![ESP32](/pic/GieselaESP32.png)
+<img src="pic/GieselaESP32.png" width="500"> 
+<br> <br>
 
-![Ggieselapumpen](/pic/gieselapumpen.png)
+<img src="pic/gieselapumpen.png" width="500"> 
+<br> <br>
 
 ---
 
@@ -141,13 +148,14 @@ Schritt 4: Inbetriebnahme
 + Beobachte die Gießfunktion und achte darauf, dass kein Wasser unkontrolliert austritt
 
 
-![Gieselanetzwerk](/pic/gieselanetzwerk.png)
+<img src="pic/gieselanetzwerk.png" width="500"> 
+<br> <br>
 
 Giesela im WLAN-Netzwerk auswählen
 
 
-![Gieselawlanmanager](/pic/gieselaWLANmanager.jpg)
-
+<img src="pic/gieselaWLANmanager.jpg width="500"> 
+<br> <br>
 
 Die WLAN-Zugangsdaten im WLAN-Manager eingeben und speichern.
 
