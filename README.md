@@ -24,9 +24,6 @@ Für die Inbetriebnahme steht ein WLAN-Manager zur Eingabe der WLAN-Zugangsdaten
 
 
 
-Giesela Pflanzenbewässerung
-
-
 <img src="pic/GieselaWEBSERVER.png" width="500"> 
 <br> <br>
 
